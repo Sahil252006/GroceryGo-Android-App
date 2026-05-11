@@ -36,6 +36,9 @@ Login → Home → Cart → Checkout → Success Screen
 3. Sync Gradle
 4. Run app on emulator or device
 
+## SCREEN RECORDING
+https://drive.google.com/file/d/1YyaarsVvpghV80W7vcGNwEmnMuouHMSj/view?usp=drivesdk
+
 ## Author
 
 SAHIL SALVI
