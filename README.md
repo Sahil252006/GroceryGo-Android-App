@@ -38,4 +38,4 @@ Login → Home → Cart → Checkout → Success Screen
 
 ## Author
 
-Soham
+SAHIL SALVI
